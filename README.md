@@ -1,2 +1,2 @@
 # Earthquake-report-App
-Reports most recent earthquakes
+Reports most recent earthquakes with Live Data
